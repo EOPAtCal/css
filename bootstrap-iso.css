@@ -348,7 +348,7 @@
   margin: 0 0 1rem;
 }
 .bootstrap-iso a {
-  color: #0059af;
+  color: #003262;
   text-decoration: none;
 }
 .bootstrap-iso a:focus,
@@ -2765,8 +2765,8 @@
 }
 .bootstrap-iso .btn-primary {
   color: #fff;
-  background-color: #0059af;
-  border-color: #0059af;
+  background-color: #003262;
+  border-color: #003262;
 }
 .bootstrap-iso .btn-primary:hover {
   color: #fff;
@@ -2780,8 +2780,8 @@
 }
 .bootstrap-iso .btn-primary.disabled,
 .bootstrap-iso .btn-primary:disabled {
-  background-color: #0059af;
-  border-color: #0059af;
+  background-color: #003262;
+  border-color: #003262;
 }
 .bootstrap-iso .btn-primary:active,
 .bootstrap-iso .btn-primary.active,
@@ -2932,15 +2932,15 @@
   border-color: #c12e2a;
 }
 .bootstrap-iso .btn-outline-primary {
-  color: #0059af;
+  color: #003262;
   background-image: none;
   background-color: transparent;
-  border-color: #0059af;
+  border-color: #003262;
 }
 .bootstrap-iso .btn-outline-primary:hover {
   color: #fff;
-  background-color: #0059af;
-  border-color: #0059af;
+  background-color: #003262;
+  border-color: #003262;
 }
 .bootstrap-iso .btn-outline-primary:focus,
 .bootstrap-iso .btn-outline-primary.focus {
@@ -2949,15 +2949,15 @@
 }
 .bootstrap-iso .btn-outline-primary.disabled,
 .bootstrap-iso .btn-outline-primary:disabled {
-  color: #0059af;
+  color: #003262;
   background-color: transparent;
 }
 .bootstrap-iso .btn-outline-primary:active,
 .bootstrap-iso .btn-outline-primary.active,
 .bootstrap-iso .show > .btn-outline-primary.dropdown-toggle {
   color: #fff;
-  background-color: #0059af;
-  border-color: #0059af;
+  background-color: #003262;
+  border-color: #003262;
 }
 .bootstrap-iso .btn-outline-secondary {
   color: #ccc;
@@ -3101,7 +3101,7 @@
 }
 .bootstrap-iso .btn-link {
   font-weight: normal;
-  color: #0059af;
+  color: #003262;
   border-radius: 0;
 }
 .bootstrap-iso .btn-link,
@@ -3254,7 +3254,7 @@
 .bootstrap-iso .dropdown-item:active {
   color: #fff;
   text-decoration: none;
-  background-color: #0059af;
+  background-color: #003262;
 }
 .bootstrap-iso .dropdown-item.disabled,
 .bootstrap-iso .dropdown-item:disabled {
@@ -3662,11 +3662,11 @@
 }
 .bootstrap-iso .custom-control-input:checked ~ .custom-control-indicator {
   color: #fff;
-  background-color: #0059af;
+  background-color: #003262;
 }
 .bootstrap-iso .custom-control-input:focus ~ .custom-control-indicator {
-  -webkit-box-shadow: 0 0 0 1px #fff, 0 0 0 3px #0059af;
-  box-shadow: 0 0 0 1px #fff, 0 0 0 3px #0059af;
+  -webkit-box-shadow: 0 0 0 1px #fff, 0 0 0 3px #003262;
+  box-shadow: 0 0 0 1px #fff, 0 0 0 3px #003262;
 }
 .bootstrap-iso .custom-control-input:active ~ .custom-control-indicator {
   color: #fff;
@@ -3711,7 +3711,7 @@
   .custom-checkbox
   .custom-control-input:indeterminate
   ~ .custom-control-indicator {
-  background-color: #0059af;
+  background-color: #003262;
   background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 4 4'%3E%3Cpath stroke='%23fff' d='M0 2h4'/%3E%3C/svg%3E");
 }
 .bootstrap-iso .custom-radio .custom-control-indicator {
@@ -3894,7 +3894,7 @@
 .bootstrap-iso .nav-pills .nav-item.show .nav-link {
   color: #fff;
   cursor: default;
-  background-color: #0059af;
+  background-color: #003262;
 }
 .bootstrap-iso .nav-fill .nav-item {
   -webkit-box-flex: 1;
@@ -4438,8 +4438,8 @@
   margin-left: -0.625rem;
 }
 .bootstrap-iso .card-primary {
-  background-color: #0059af;
-  border-color: #0059af;
+  background-color: #003262;
+  border-color: #003262;
 }
 .bootstrap-iso .card-primary .card-header,
 .bootstrap-iso .card-primary .card-footer {
@@ -4479,7 +4479,7 @@
 }
 .bootstrap-iso .card-outline-primary {
   background-color: transparent;
-  border-color: #0059af;
+  border-color: #003262;
 }
 .bootstrap-iso .card-outline-secondary {
   background-color: transparent;
@@ -4702,8 +4702,8 @@
 .bootstrap-iso .page-item.active .page-link {
   z-index: 2;
   color: #fff;
-  background-color: #0059af;
-  border-color: #0059af;
+  background-color: #003262;
+  border-color: #003262;
 }
 .bootstrap-iso .page-item.disabled .page-link {
   color: #636c72;
@@ -4718,7 +4718,7 @@
   padding: 0.5rem 0.75rem;
   margin-left: -1px;
   line-height: 1.25;
-  color: #0059af;
+  color: #003262;
   background-color: #fff;
   border: 1px solid #ddd;
 }
@@ -4791,7 +4791,7 @@
   background-color: #4b5257;
 }
 .bootstrap-iso .badge-primary {
-  background-color: #0059af;
+  background-color: #003262;
 }
 .bootstrap-iso .badge-primary[href]:focus,
 .bootstrap-iso .badge-primary[href]:hover {
@@ -4946,7 +4946,7 @@
 .bootstrap-iso .progress-bar {
   height: 1rem;
   color: #fff;
-  background-color: #0059af;
+  background-color: #003262;
 }
 .bootstrap-iso .progress-bar-striped {
   background-image: -webkit-linear-gradient(
@@ -5082,8 +5082,8 @@
 .bootstrap-iso .list-group-item.active {
   z-index: 2;
   color: #fff;
-  background-color: #0059af;
-  border-color: #0059af;
+  background-color: #003262;
+  border-color: #003262;
 }
 .bootstrap-iso .list-group-item.active .list-group-item-heading,
 .bootstrap-iso .list-group-item.active .list-group-item-heading > small,
@@ -5900,7 +5900,7 @@
   background-color: #f7f7f7;
 }
 .bootstrap-iso .bg-primary {
-  background-color: #0059af !important;
+  background-color: #003262 !important;
 }
 .bootstrap-iso a.bg-primary:focus,
 .bootstrap-iso a.bg-primary:hover {
@@ -8785,7 +8785,7 @@
   color: #4b5257 !important;
 }
 .bootstrap-iso .text-primary {
-  color: #0059af !important;
+  color: #003262 !important;
 }
 .bootstrap-iso a.text-primary:focus,
 .bootstrap-iso a.text-primary:hover {
